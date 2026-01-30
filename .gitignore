@@ -1,0 +1,20 @@
+# Cmake
+build/
+build-*/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+CMakeLists.txt.user
+
+# Compiled outputs
+*.o
+*.so
+*.a
+*.exe
+
+# OS junk
+.DS_Store
+*.swp
+
